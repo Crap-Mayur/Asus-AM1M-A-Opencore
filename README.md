@@ -1,6 +1,5 @@
 # OpenCore EFI for AMD Athlon Hackintosh
-![Asus AM1M-A BigSur](https://imgur.com/a/vkKjTDK)
-
+![Asus AM1M-A BigSur](https://i.imgur.com/H5W8uK9.jpg)
 ## Verified Specification
 
 | **Component**    | **Model**                                  |
