@@ -1,4 +1,5 @@
-# OpenCore EFI for AMD Ryzen Hackintosh
+# OpenCore EFI for AMD Athlon Hackintosh
+![Asus AM1M-A BigSur](https://imgur.com/a/vkKjTDK)
 
 ## Verified Specification
 
